@@ -1,1 +1,1 @@
-# Curriculum Vitae
+# Curriculum Vitaed https://losyondris.github.io/cv/
