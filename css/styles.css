@@ -10,6 +10,13 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+ .certificado_img{
+   width: 180px;
+   height: 150px;
+
+ }
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
