@@ -15,6 +15,11 @@
    width: 180px;
    height: 150px;
  }
+ /* .Certificado{
+   margin-top: -80px !important;
+ } */
+
+
 
 :root {
   --blue: #007bff;
@@ -10103,6 +10108,7 @@ section.resume-section {
 }
 section.resume-section .resume-section-content {
   width: 100%;
+  margin-top: -70px !important;
 }
 
 @media (min-width: 768px) {
